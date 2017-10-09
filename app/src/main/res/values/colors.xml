@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FFA000</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="FoodCategory">#FFAB00</color>
+    <color name="ShopCategory">#7986CB
+    </color>
+    <color name="SitesCategory">#E57373</color>
+    <color name="NatureCategory">#4DB6AC</color>
+</resources>
